@@ -1,0 +1,24 @@
+{
+  "name": "mock4data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naquee/mock4data.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Naquee/mock4data/issues"
+  },
+  "homepage": "https://github.com/Naquee/mock4data#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
